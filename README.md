@@ -39,5 +39,3 @@ Always use lowercase with hyphens, no spaces.
 Rebase your feature branch on development before raising a PR.
 This keeps the commit history clean and linear.
 Squash multiple WIP commits into one meaningful commit.
-
-jdsnui
