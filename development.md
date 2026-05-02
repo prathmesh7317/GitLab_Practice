@@ -1,0 +1,3 @@
+## DEVELOPEMNT
+
+Software development is the systematic process of designing, coding, testing, and maintaining applications or systems to solve specific problems or fulfill user needs. It begins with a deep dive into requirements, where developers and stakeholders define what the software must achieve, followed by architectural planning to ensure the system is scalable and secure. In modern environments, this often involves "Agile" methodologies, where teams work in short sprints to deliver incremental updates, allowing for continuous feedback and rapid improvement.
