@@ -5,7 +5,7 @@ The development branch is where all feature branches merge first.
 It acts as the integration layer before code moves to staging.
 Think of it as the team's shared sandbox for combining work.
 
-## Team Workflow
+## Team Workflow 
 Every developer creates their feature branch from development.
 When the feature is complete, a pull request is raised to merge back.
 The team reviews the code before it gets merged in.
